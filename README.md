@@ -4,7 +4,7 @@ An independent product operations work sample for Profound: a concept for monito
 
 The prototype shows four checks: whether the launch page was **crawled**, **cited**, **mentioned**, and described **correctly**. The deck covers the concept, rollout plan, team enablement, and adoption measures.
 
-- [Prototype](index.html) — download and open in a browser; no build step required.
+- [Live prototype](https://shalaka003.github.io/launch-watch/) — open directly in your browser; no download required.
 - [Presentation](Launch%20Watch%20-%20Profound.pdf) — the 10-slide concept and launch plan.
 - [Original project ZIP](launch-watch.zip) — the complete supplied bundle.
 
